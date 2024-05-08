@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.signup {
+  background-color: antiquewhite;
+  border: 2px solid black;
+  font-family: sans-serif;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  padding: 7px;
+  width: 25%;
+}
+
+input {
+  width: fit-content;
+  padding: 3px;
+  display: inline-block;
+}
+
+#btn {
+  margin-top: 3px;
+  width: 60%;
+  height: 40px;
+}

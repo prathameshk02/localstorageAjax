@@ -1,0 +1,13 @@
+*body {
+  margin: 0;
+  padding: 0;
+}
+
+.login {
+  width: 25%;
+  background-color: antiquewhite;
+  border: 2px solid black;
+  border-radius: 3px;
+  justify-content: center;
+  align-items: center;
+}
